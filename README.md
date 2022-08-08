@@ -10,7 +10,7 @@ I worked as a customer employee service of *6 months* in Ministry of Digital Eco
 4. Java 
 ### Take it as an approach in your life 👇👇
 ```c++
-if(!You.sad()==true){
+if(You.sad()==true){
     sad().stop();
     beAwesome();
 }
